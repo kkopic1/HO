@@ -1,0 +1,79 @@
+#background{
+    background-color: #f6f9fa;
+    height: 1600px;
+    width: 1580px;
+}
+
+
+#motivacija_slika1{
+    width: 1580px;
+    height: 700px;
+    
+}
+
+#naslov{
+    color:rgb(8, 8, 82); 
+    font-size: 80px;
+}
+
+/* The animation code */
+
+#tekst1{
+    position: absolute;
+    top:300px;
+    left: 290px;
+    text-align: center;
+    display: none;
+    animation-name: example;
+    animation-duration: 5s;
+}
+@keyframes example {
+    from {display: none;}
+    to {display: block;}
+}
+
+#zaglavlje{
+    background-color: #f1f1f1;
+    position: absolute;
+    top:1480px;
+    width: 1580px;
+   
+}
+
+#about{
+    position: absolute;
+    top:950px;
+    background-color: rgba(0, 0, 0, 0.048);
+    height: 380px;
+    width: 1580px;
+     
+}
+
+#listaMotivacije{
+    font-size: 28px;
+    padding-top: 25px;
+    padding-left: 80px;
+    list-style-type: none;
+}
+
+li {
+    padding-left: 1em;
+    text-indent: -1em;
+     color:rgb(8, 8, 82); ; 
+  }
+
+  #NaslovMotivacija{
+    color: rgba(0, 0, 0, 0.144);
+    font-size: 70px;
+    position: absolute;
+    top: -71px;
+    left: 50px;
+  }
+
+
+
+
+
+
+
+

@@ -1,0 +1,29 @@
+#background{
+    background-color: #f6f9fa;
+    height: 1200px;
+    width: 1580px;
+}
+
+
+#pozadinaKataloga{
+    position: absolute;
+    height: 600px;
+    width: 1280px;
+    height: 500px;
+    padding-top: 40px; 
+}
+
+#zaglavlje{
+    background-color: #f1f1f1;
+    position: absolute;
+    top: 1100px;
+    width: 1580px;
+}
+
+
+#proba{
+    position: absolute;
+    top: 150px;
+    left: 140px;
+    width: 1300px;
+}

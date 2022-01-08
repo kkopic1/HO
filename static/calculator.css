@@ -1,0 +1,42 @@
+#background{
+    background-color: #f6f9fa;
+    height: 800px;
+    width: 1580px;
+}
+
+
+#zaglavlje{
+    position: absolute;
+    top: 1500px;
+    background-color: rgb(129, 197, 224);
+    height: 200px;
+    width: 1580px;
+
+}
+
+#podaci{
+    position: absolute;
+    top: 100px;
+    left: 200px;
+    
+}
+
+#motivacija_slika1{
+    width: 1580px;
+    height: 1220px;
+}
+
+#custom{
+    position: absolute;
+    left: 50px;
+    border-radius: 5%;
+    height: 380px;
+    width: 500px;
+    display: none;
+}
+
+#buttonMakePlan{
+    position: absolute; 
+    top:670px; 
+    left:790px;
+}
