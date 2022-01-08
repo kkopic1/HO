@@ -712,8 +712,8 @@ def getResult():
     print(duljina)
     return render_template('rezultat.html', data = [namirnice, kolicina, slike, uk_cijena, uk_kalorije, lpArray, duljina])
     
-    
-    
+if __name__ == "__main__":
+    app.run()
     
     
     
